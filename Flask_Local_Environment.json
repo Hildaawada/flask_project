@@ -1,0 +1,14 @@
+{
+  "name": "Flask Local Environment",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:5000",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_using": "Postman v11"
+}
+
+
